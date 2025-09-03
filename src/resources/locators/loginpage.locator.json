@@ -1,0 +1,9 @@
+{
+    "username": "#user-name",
+    "password": "#password",
+    "loginbutton": "#login-button",
+    "welcomeMessage": "welcomeMessage",
+    "productsTitle" : "product_label" 
+
+
+}

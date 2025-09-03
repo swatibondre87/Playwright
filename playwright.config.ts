@@ -12,7 +12,7 @@ import { defineConfig, devices } from '@playwright/test';
  * See https://playwright.dev/docs/test-configuration.
  */
 export default defineConfig({
-  testDir: './tests',
+  testDir: './src/tests',
   /* Run tests in files in parallel */
   fullyParallel: true,
   /* Fail the build on CI if you accidentally left test.only in the source code. */
@@ -37,6 +37,10 @@ export default defineConfig({
     // Record video only when retrying a test for the first time.
     // video: 'on'
     headless: false,
+     launchOptions: {
+     slowMo: 1000,          // slows each action by 1s
+   },
+
     testIdAttribute: 'data-testid',
    
    
