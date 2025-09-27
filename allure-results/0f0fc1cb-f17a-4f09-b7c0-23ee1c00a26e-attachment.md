@@ -1,0 +1,148 @@
+# Page snapshot
+
+```yaml
+- table:
+  - rowgroup:
+    - row "Hosting Plans | Support | Faq | Company | Contact":
+      - cell "Hosting Plans | Support | Faq | Company | Contact":
+        - table:
+          - rowgroup:
+            - row "Hosting Plans | Support | Faq | Company | Contact":
+              - cell "Hosting Plans | Support | Faq | Company | Contact":
+                - link "Hosting Plans":
+                  - /url: /services.html
+                - text: "|"
+                - link "Support":
+                  - /url: /support.html
+                - text: "|"
+                - link "Faq":
+                  - /url: /faq.html
+                - text: "|"
+                - link "Company":
+                  - /url: /company.html
+                - text: "|"
+                - link "Contact":
+                  - /url: /contact.html
+              - cell
+    - row "Customer Portal Login":
+      - cell:
+        - img
+      - cell "Customer Portal Login":
+        - table:
+          - rowgroup:
+            - row "Customer Portal Login":
+              - cell "Customer Portal"
+              - cell "Login":
+                - link "Login":
+                  - /url: /portal.php
+                  - img "Login"
+    - row "Your-Site Affordable Web site Hosting Your-Site Web site Hosting Your-Site Web site Hosting Your-Site Web site Hosting Your-Site Web site Hosting Your-Site Web site Hosting":
+      - cell "Your-Site Affordable Web site Hosting Your-Site Web site Hosting Your-Site Web site Hosting Your-Site Web site Hosting Your-Site Web site Hosting Your-Site Web site Hosting":
+        - table:
+          - rowgroup:
+            - row:
+              - cell:
+                - img
+            - row "Your-Site Affordable Web site Hosting Your-Site Web site Hosting Your-Site Web site Hosting Your-Site Web site Hosting Your-Site Web site Hosting Your-Site Web site Hosting":
+              - cell "Your-Site Affordable Web site Hosting":
+                - img "Your-Site Affordable Web site Hosting"
+              - cell "Your-Site Web site Hosting":
+                - link "Your-Site Web site Hosting":
+                  - /url: /services.html
+                  - img "Your-Site Web site Hosting"
+              - cell "Your-Site Web site Hosting":
+                - link "Your-Site Web site Hosting":
+                  - /url: /support.html
+                  - img "Your-Site Web site Hosting"
+              - cell "Your-Site Web site Hosting":
+                - link "Your-Site Web site Hosting":
+                  - /url: /faq.html
+                  - img "Your-Site Web site Hosting"
+              - cell "Your-Site Web site Hosting":
+                - link "Your-Site Web site Hosting":
+                  - /url: /company.html
+                  - img "Your-Site Web site Hosting"
+              - cell "Your-Site Web site Hosting":
+                - link "Your-Site Web site Hosting":
+                  - /url: /contact.html
+                  - img "Your-Site Web site Hosting"
+              - cell
+    - row "Sitebuilder Free Website Builder Tool! Free Domain Parking Your-Site doesn't just park your domain for free. We offer 2 other key services... a default Web page and E-mail forwarding! read more Superior Technology We use and own the best hardware and are not a web hosting reseller! read more Testimonials Our customers are talking! Find out what they've got to say about Your-Site's services. read more":
+      - cell:
+        - table:
+          - rowgroup:
+            - row:
+              - cell:
+                - img
+              - cell
+              - cell:
+                - img
+            - row:
+              - cell
+              - cell:
+                - table:
+                  - rowgroup:
+                    - row:
+                      - cell
+      - cell "Sitebuilder Free Website Builder Tool! Free Domain Parking Your-Site doesn't just park your domain for free. We offer 2 other key services... a default Web page and E-mail forwarding! read more Superior Technology We use and own the best hardware and are not a web hosting reseller! read more Testimonials Our customers are talking! Find out what they've got to say about Your-Site's services. read more":
+        - table:
+          - rowgroup:
+            - row "Sitebuilder Free Website Builder Tool! Free Domain Parking":
+              - cell "Sitebuilder Free Website Builder Tool!":
+                - table:
+                  - rowgroup:
+                    - row "Sitebuilder":
+                      - cell "Sitebuilder":
+                        - paragraph:
+                          - link "Sitebuilder":
+                            - /url: /sitebuilder.html
+                            - img "Sitebuilder"
+                    - row "Free Website Builder Tool!":
+                      - cell "Free Website Builder Tool!"
+              - cell "Free Domain Parking":
+                - img "Free Domain Parking"
+            - row "Your-Site doesn't just park your domain for free. We offer 2 other key services... a default Web page and E-mail forwarding! read more":
+              - cell
+              - cell "Your-Site doesn't just park your domain for free. We offer 2 other key services... a default Web page and E-mail forwarding! read more":
+                - text: Your-Site doesn't just park your domain for free. We offer 2 other key services... a default Web page and E-mail forwarding!
+                - link "read more":
+                  - /url: /parking.html
+                - img
+            - row "Superior Technology":
+              - cell "Superior Technology":
+                - img "Superior Technology"
+            - row "We use and own the best hardware and are not a web hosting reseller! read more":
+              - cell
+              - cell "We use and own the best hardware and are not a web hosting reseller! read more":
+                - text: We use and own the best hardware and are not a web hosting reseller!
+                - link "read more":
+                  - /url: /network.html
+                - img
+            - row "Testimonials":
+              - cell "Testimonials":
+                - img "Testimonials"
+            - row "Our customers are talking! Find out what they've got to say about Your-Site's services. read more":
+              - cell
+              - cell "Our customers are talking! Find out what they've got to say about Your-Site's services. read more":
+                - text: Our customers are talking! Find out what they've got to say about Your-Site's services.
+                - link "read more":
+                  - /url: /testimonials.html
+    - row "Check domain availability":
+      - cell "Check domain availability":
+        - paragraph:
+          - img
+          - link "Check domain availability":
+            - /url: /domain.html
+            - img "Check domain availability"
+          - img
+      - cell:
+        - img
+    - row "Your-Site.Com/Fluidsoft, Inc. | P.O. Box 535 | Funkstown, MD 21734 | info@your-site.com Copyright © 1996-2012 Your-Site.Com | Privacy Statement":
+      - cell "Your-Site.Com/Fluidsoft, Inc. | P.O. Box 535 | Funkstown, MD 21734 | info@your-site.com Copyright © 1996-2012 Your-Site.Com | Privacy Statement":
+        - text: Your-Site.Com/Fluidsoft, Inc. | P.O. Box 535 | Funkstown, MD 21734 |
+        - link "info@your-site.com":
+          - /url: mailto:info@your-site.com
+        - text: Copyright © 1996-2012 Your-Site.Com |
+        - link "Privacy Statement":
+          - /url: privacy.html
+```

@@ -1,0 +1,11 @@
+{
+     "name": "Swati",
+     "job": "QA Lead",
+     "skills":["Selenium", "Java", "Maven"],
+     "address":{
+           "street": "147, Nelson street",
+           "city": "Auckland"
+          
+
+     }
+}

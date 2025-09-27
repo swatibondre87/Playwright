@@ -1,0 +1,9 @@
+Created User: {
+  name: 'swati',
+  job: 'QA',
+  id: '75',
+  createdAt: '2025-09-25T07:21:36.130Z'
+}
+75
+Fetched User: {}
+User deleted

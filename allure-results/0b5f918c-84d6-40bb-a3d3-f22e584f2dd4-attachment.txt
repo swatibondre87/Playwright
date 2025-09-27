@@ -1,0 +1,9 @@
+{
+  name: 'swati',
+  job: 'QA',
+  skills: [ 'selenium', 'java' ],
+  address: { street: '147, Nelson street', city: 'Auckland' },
+  id: '689',
+  createdAt: '2025-09-24T13:37:39.519Z'
+}
+[ 'selenium', 'java' ]

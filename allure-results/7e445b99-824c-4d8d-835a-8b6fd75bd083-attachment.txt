@@ -1,0 +1,7 @@
+{
+  name: 'swati',
+  job: 'QA',
+  skills: [ 'selenium', 'java' ],
+  id: '674',
+  createdAt: '2025-09-24T13:20:09.988Z'
+}

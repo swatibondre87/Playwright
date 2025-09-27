@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4709","Login test with logger","chromium","Tue Sep 23 23:56:20 NZST 2025","passed","Tue Sep 23 23:56:25 NZST 2025","","logintest.spec.ts","",""

@@ -1,0 +1,6 @@
+POST Response: {
+  name: 'Neo',
+  job: 'The One',
+  id: '933',
+  createdAt: '2025-09-25T19:58:09.245Z'
+}
